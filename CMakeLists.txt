@@ -11,4 +11,5 @@ add_executable(elixir
     src/main.c
 
     src/core/tensor.c
+    src/core/tensor_ops.c
 )
